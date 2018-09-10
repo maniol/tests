@@ -1,0 +1,23 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.test.js",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maniol/tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maniol/tests/issues"
+  },
+  "homepage": "https://github.com/maniol/tests#readme",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
