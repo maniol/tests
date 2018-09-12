@@ -1,0 +1,13 @@
+li {
+	margin: 5px;
+}
+
+.Player__name, .Player__score, .Player__button {
+	margin: 10px;
+}
+
+.Player {
+	width: 20%;
+	margin-left: 520px;
+	background: #2b5fd6;
+}
